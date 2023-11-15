@@ -1,0 +1,1 @@
+https://universe.roboflow.com/sirius-oz5js/falling-people-detection/model/1
